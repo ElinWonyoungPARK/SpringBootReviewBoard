@@ -1,8 +1,8 @@
 package com.example.demo.utils;
 
-import org.springframework.stereotype.Service;
+public class Printer {
 
-@Service
-public class Printer{
-
+	public void accept(String string) {
+	}
+    
 }
